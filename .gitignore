@@ -1,8 +1,0 @@
-/dist
-/.trash
-/node_modules
-/portable/node/
-/portable/data/
-/portable/dist/
-/portable/os/*/bin/
-/portable/node_modules

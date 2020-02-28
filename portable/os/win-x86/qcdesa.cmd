@@ -1,1 +1,0 @@
-../win-x64/qcdesa.cmd
